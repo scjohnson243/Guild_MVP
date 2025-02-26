@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Quests>
+    <!-- Common Rarity Quests (10) - BaseGoldReward: 25, Easier Combat -->
+    <Quest Title="Drive Off the Goblins">
+        <Description>Goblins raided the road to the inn, scaring travelers. Fight them off near the forest path and restore safe passage for guests.</Description>
+        <OfferedBy>Innkeeper</OfferedBy>
+        <Rarity>Common</Rarity>
+        <BaseGoldReward>25</BaseGoldReward>
+    </Quest>
+    <Quest Title="Slay the Wolves">
+        <Description>Wild wolves attacked a cart near the inn, alarming patrons. Head to the fields, defeat the pack, and ensure the safety of our supplies.</Description>
+        <OfferedBy>Innkeeper</OfferedBy>
+        <Rarity>Common</Rarity>
+        <BaseGoldReward>25</BaseGoldReward>
+    </Quest>
+    <Quest Title="Banish the Sprites">
+        <Description>Mischievous sprites harass guests near the inn’s well. Fight them off with steel or magic, and secure the water source for travelers.</Description>
+        <OfferedBy>Innkeeper</OfferedBy>
+        <Rarity>Common</Rarity>
+        <BaseGoldReward>25</BaseGoldReward>
+    </Quest>
+    <Quest Title="Clear the Bandits">
+        <Description>Petty bandits ambush travelers on the inn’s path. Confront and defeat them in the hills to protect our nightly guests.</Description>
+        <OfferedBy>Innkeeper</OfferedBy>
+        <Rarity>Common</Rarity>
+        <BaseGoldReward>25</BaseGoldReward>
+    </Quest>
+    <Quest Title="Kill the Boars">
+        <Description>Feral boars threaten the inn’s vegetable garden, scaring patrons. Slay the beasts in the nearby woods to keep our food supply safe.</Description>
+        <OfferedBy>Innkeeper</OfferedBy>
+        <Rarity>Common</Rarity>
+        <BaseGoldReward>25</BaseGoldReward>
+    </Quest>
+    <Quest Title="Expel the Kobolds">
+        <Description>Kobolds stole from a traveler near the inn, endangering our reputation. Fight them in their nearby cave and recover what was taken.</Description>
+        <OfferedBy>Innkeeper</OfferedBy>
+        <Rarity>Common</Rarity>
+        <BaseGoldReward>25</BaseGoldReward>
+    </Quest>
+    <Quest Title="Defeat the Skeletons">
+        <Description>Animated skeletons haunt the old road to the inn, spooking guests. Destroy them near the graveyard to ensure safe travel for patrons.</Description>
+        <OfferedBy>Innkeeper</OfferedBy>
+        <Rarity>Common</Rarity>
+        <BaseGoldReward>25</BaseGoldReward>
+    </Quest>
+    <Quest Title="Stop the Thieves">
+        <Description>Thieves attacked a merchant bound for the inn, alarming visitors. Track and defeat them in the forest to secure our trade route.</Description>
+        <OfferedBy>Innkeeper</OfferedBy>
+        <Rarity>Common</Rarity>
+        <BaseGoldReward>25</BaseGoldReward>
+    </Quest>
+    <Quest Title="Slay the Giant Spiders">
+        <Description>Giant spiders weave webs near the inn’s path, trapping travelers. Fight them in the undergrowth to keep our guests safe.</Description>
+        <OfferedBy>Innkeeper</OfferedBy>
+        <Rarity>Common</Rarity>
+        <BaseGoldReward>25</BaseGoldReward>
+    </Quest>
+    <Quest Title="Rout the Gnolls">
+        <Description>Gnolls harass travelers on the road to the inn, causing panic. Battle them near the plains to protect our nightly visitors.</Description>
+        <OfferedBy>Innkeeper</OfferedBy>
+        <Rarity>Common</Rarity>
+        <BaseGoldReward>25</BaseGoldReward>
+    </Quest>
+
+    <!-- Rare Rarity Quests (5) - BaseGoldReward: 50, More Difficult Combat -->
+    <Quest Title="Defeat the Ogre">
+        <Description>An ogre blocks the road to the inn, smashing carts and scaring guests. Confront and slay the brute in its swamp lair to secure our trade route.</Description>
+        <OfferedBy>Innkeeper</OfferedBy>
+        <Rarity>Rare</Rarity>
+        <BaseGoldReward>50</BaseGoldReward>
+    </Quest>
+    <Quest Title="Slay the Wyrmling">
+        <Description>A young dragon torments travelers near the inn, burning the path. Battle the wyrmling in its rocky nest to protect our patrons.</Description>
+        <OfferedBy>Innkeeper</OfferedBy>
+        <Rarity>Rare</Rarity>
+        <BaseGoldReward>50</BaseGoldReward>
+    </Quest>
+    <Quest Title="Crush the Troll Gang">
+        <Description>A gang of trolls ambushes travelers on the inn’s road, posing a deadly threat. Fight and eliminate them in their cavern hideout to ensure safety.</Description>
+        <OfferedBy>Innkeeper</OfferedBy>
+        <Rarity>Rare</Rarity>
+        <BaseGoldReward>50</BaseGoldReward>
+    </Quest>
+    <Quest Title="Banish the Wraiths">
+        <Description>Ethereal wraiths haunt the inn’s courtyard, terrifying guests. Engage them with enchanted weapons in the graveyard to restore peace.</Description>
+        <OfferedBy>Innkeeper</OfferedBy>
+        <Rarity>Rare</Rarity>
+        <BaseGoldReward>50</BaseGoldReward>
+    </Quest>
+    <Quest Title="Destroy the Harpy Nest">
+        <Description>Harpies attack travelers near the inn, dragging them into cliffs. Assault their nest, defeat the flock, and secure the skies for our guests.</Description>
+        <OfferedBy>Innkeeper</OfferedBy>
+        <Rarity>Rare</Rarity>
+        <BaseGoldReward>50</BaseGoldReward>
+    </Quest>
+
+    <!-- Legendary Rarity Quests (5) - BaseGoldReward: 75, Very Difficult Combat -->
+    <Quest Title="Slay the Dragon">
+        <Description>A fearsome dragon roosts near the inn, incinerating travelers and villages. Face the beast in its mountain lair to save our region and guests.</Description>
+        <OfferedBy>Innkeeper</OfferedBy>
+        <Rarity>Legendary</Rarity>
+        <BaseGoldReward>75</BaseGoldReward>
+    </Quest>
+    <Quest Title="Defeat the Lich">
+        <Description>A lich’s dark magic curses the road to the inn, raising undead to attack guests. Battle the necromancer in its ancient tomb to end the terror.</Description>
+        <OfferedBy>Innkeeper</OfferedBy>
+        <Rarity>Legendary</Rarity>
+        <BaseGoldReward>75</BaseGoldReward>
+    </Quest>
+    <Quest Title="Overthrow the Warlord">
+        <Description>A brutal orc warlord leads raids on the inn’s road, slaughtering travelers. Storm his fortress, defeat his army, and bring peace to our lands.</Description>
+        <OfferedBy>Innkeeper</OfferedBy>
+        <Rarity>Legendary</Rarity>
+        <BaseGoldReward>75</BaseGoldReward>
+    </Quest>
+    <Quest Title="Conquer the Demon">
+        <Description>A demon summoned near the inn terrorizes guests, summoning fiends. Face it in the cursed ruins, destroy its minions, and banish it forever.</Description>
+        <OfferedBy>Innkeeper</OfferedBy>
+        <Rarity>Legendary</Rarity>
+        <BaseGoldReward>75</BaseGoldReward>
+    </Quest>
+    <Quest Title="Vanquish the Giant King">
+        <Description>A colossal giant king leads raids on the inn’s road, crushing travelers. Challenge him in his mountain stronghold, defeat his horde, and restore safety.</Description>
+        <OfferedBy>Innkeeper</OfferedBy>
+        <Rarity>Legendary</Rarity>
+        <BaseGoldReward>75</BaseGoldReward>
+    </Quest>
+</Quests>

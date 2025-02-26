@@ -1,0 +1,64 @@
+.quest-board {
+    width: 400px;
+    height: 600px;
+    background-color: #2E2E2E; /* Dark gray background */
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.quest-title {
+    font-size: 24px;
+    color: white;
+    -unity-text-align: middle-center;
+    margin-bottom: 10px;
+}
+
+.quest-list {
+    flex-grow: 1;
+    background-color: #444444; /* Slightly lighter than board */
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.quest-item {
+    font-size: 18px;
+    color: white; /* ✅ Change text to white */
+    background-color: #555555; /* ✅ Add a background to quests */
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+.quest-button {
+    width: 100%;
+    height: 50px;
+    font-size: 18px;
+    color: white;
+    background-color: #4A90E2;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.common-quest {
+    color: white;
+    background-color: #444444;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+.rare-quest {
+    color: #4A90E2; /* Blue text */
+    background-color: #333366; /* Dark blue */
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+.legendary-quest {
+    color: #FFD700; /* Gold text */
+    background-color: #664400; /* Dark gold */
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 5px;
+}
